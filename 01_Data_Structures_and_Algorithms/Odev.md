@@ -53,6 +53,8 @@ n + (n-1) + (n-2) + (n-3) + (n-4) + 1 -----> (n * (n+1)) / 2 -----> (n^2) * n / 
 
 #### Çözüm:
 
+![Proje2](https://github.com/goknkaya/Data_Structures_and_Algorithms_Projects/blob/main/odev.png)
+
 <img src="https://github.com/goknkaya/Data_Structures_and_Algorithms_Projects/blob/main/odev.png" width="auto">
 
 ## Project 3 - Binary Search Tree Projesi
