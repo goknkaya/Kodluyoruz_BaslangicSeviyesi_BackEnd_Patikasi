@@ -55,17 +55,9 @@ n + (n-1) + (n-2) + (n-3) + (n-4) + 1 -----> (n * (n+1)) / 2 -----> (n^2) * n / 
 
 ![Proje2](https://i.hizliresim.com/hpdyxqv.png)
 
-[url=https://hizliresim.com/hpdyxqv][img]https://i.hizliresim.com/hpdyxqv.png[/img][/url]
-
-<img src="https://github.com/goknkaya/Data_Structures_and_Algorithms_Projects/blob/main/odev.png" width="auto">
-
 ## Project 3 - Binary Search Tree Projesi
 
 ![Proje3](https://i.hizliresim.com/dlgs7gw.png)
-
-[url=https://hizliresim.com/dlgs7gw][img]https://i.hizliresim.com/dlgs7gw.png[/img][/url]
-
-<img src = "https://github.com/goknkaya/Data_Structures_and_Algorithms_Projects/blob/main/indir.png" width = "auto">
 
 - Step 1: 1<5 için Root' un solunda 1
 - Step 2: 7>5 için Root' un sağında 7
